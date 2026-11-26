@@ -1,0 +1,6 @@
+# Copia este archivo como ".env" y pon tus datos reales
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=analyst_test
+DB_PASSWORD=tu_password_aqui
+DB_NAME=soundmetrics
